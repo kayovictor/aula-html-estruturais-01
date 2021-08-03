@@ -1,0 +1,20 @@
+li a{
+    text-decoration: none;  
+}
+body{
+    width: 60%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background: rgb(123, 255, 0);
+}
+ul{ list-style: none;
+    display: flex;
+    gap: 1rem;
+    text-decoration: none;
+    }
+.capaimg{
+    margin-top:50px;
+}
